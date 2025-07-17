@@ -11,14 +11,14 @@ export default function NotFound() {
         </div>
 
         <a
-          href="https://himafiitb.com"
+          href="https://gamaisitb.com"
           className="inline-block rounded-lg bg-blue-600 px-8 py-3 font-semibold text-white shadow-lg transition-colors duration-200 hover:bg-blue-700 hover:shadow-xl"
         >
-          Return to HIMAFI ITB
+          Return to GAMAIS ITB
         </a>
 
         <div className="mt-8 text-sm text-slate-400">
-          <p>Himpunan Mahasiswa Fisika ITB</p>
+          <p>Keluarga Mahasiswa Islam ITB</p>
         </div>
       </div>
     </main>

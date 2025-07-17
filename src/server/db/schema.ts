@@ -6,7 +6,7 @@ import { pgTableCreator, serial, text, varchar } from "drizzle-orm/pg-core";
  *
  * @see https://orm.drizzle.team/docs/goodies#multi-project-schema
  */
-export const createTable = pgTableCreator((name) => `cnb-himafi_${name}`);
+export const createTable = pgTableCreator((name) => `gcorp-gamais_${name}`);
 
 export const links = createTable("links", {
   id: serial("id").primaryKey(),

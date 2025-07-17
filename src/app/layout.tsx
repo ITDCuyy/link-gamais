@@ -3,8 +3,8 @@ import { type Metadata } from "next";
 import { GeistSans } from "geist/font/sans";
 
 export const metadata: Metadata = {
-  title: "HIMAFI ITB Link Shortener",
-  description: "link shortener server for Himpunan Mahasiswa Fisika ITB",
+  title: "GAMAIS ITB Link Shortener",
+  description: "link shortener server for Keluarga Mahasiswa Islam ITB",
   icons: [{ rel: "icon", url: "/favicon.ico" }],
 };
 

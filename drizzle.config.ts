@@ -8,5 +8,5 @@ export default {
   dbCredentials: {
     url: env.DATABASE_URL,
   },
-  tablesFilter: ["link-himafi_*"],
+  tablesFilter: ["link-gamais_*"],
 } satisfies Config;
